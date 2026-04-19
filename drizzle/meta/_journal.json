@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1768107790056,
+      "tag": "0000_early_mad_thinker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1768107980676,
+      "tag": "0001_true_meteorite",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1768108392482,
+      "tag": "0002_large_betty_brant",
+      "breakpoints": true
+    }
+  ]
+}
